@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this article, please cite it using the following metadata."
+authors:
+- family-names: "Contreras-Aso"
+  given-names: "Gonzalo"
+preferred-citation:
+  title: "Beyond directed hypergraphs: heterogeneous hypergraphs and spectral centralities"
+  authors:
+  - family-names: "Contreras-Aso"
+    given-names: "Gonzalo"
+  - family-names: "Criado"
+    given-names: "Regino"
+  - family-names: "Romance"
+    given-names: "Miguel"
+  date-published: 2024-09-03
+  doi: "10.1093/comnet/cnae037"
+  url: "https://doi.org/10.1093/comnet/cnae037"
+  journal: "Journal of Complex Networks"
+  volume: "12"
+  issue: "5"
+  pages: "cnae037"
+  issn: "2051-1329"
+  type: article
